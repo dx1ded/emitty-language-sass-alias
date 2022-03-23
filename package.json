@@ -1,0 +1,23 @@
+{
+  "name": "emitty-language-sass-alias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [
+    "gulp",
+    "emitty",
+    "alias",
+    "sass",
+    "scss"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dx1ded/emitty-language-sass-alias.git"
+  },
+  "author": "Volodymyr Doskochinskiy <doskovol1@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "path": "^0.12.7",
+    "scss-symbols-parser": "^1.1.3"
+  }
+}
